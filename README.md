@@ -44,9 +44,9 @@ The notebooks are designed to be completed in order. Each builds on the previous
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   1. LangGraph 101          2. Reflection Agent                │
+│   1. LangGraph 101          2. Reflection Agent                 │
 │   ─────────────────          ────────────────────               │
-│   • States                   • Self-critique loops             │
+│   • States                   • Self-critique loops              │
 │   • Nodes & Edges            • MessageGraph                     │
 │   • Conditional routing      • Iterative refinement             │
 │                                                                 │
