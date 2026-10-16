@@ -68,7 +68,7 @@ The notebooks are designed to be completed in order. Each builds on the previous
 
 | # | Notebook | Concepts | Time | Level |
 |---|----------|----------|------|-------|
-| 1 | [LangGraph 101: Building Stateful AI Workflows](notebooks/01_langgraph_101.ipynb) | States, Nodes, Edges, Conditional Edges | ~60 min | 🟢 Beginner |
+| 1 | [LangGraph 101: Building Stateful AI Workflows](notebooks/Lab-LangGraph101.ipynb) | States, Nodes, Edges, Conditional Edges | ~60 min | 🟢 Beginner |
 | 2 | [Building a Reflection Agent](notebooks/02_reflection_agent.ipynb) | Reflection pattern, MessageGraph, self-critique | ~45 min | 🟡 Intermediate |
 | 3 | [Reflexion Agent with External Knowledge](notebooks/03_reflexion_external_knowledge.ipynb) | Tool integration, structured critique, Tavily search | ~30 min | 🟡 Intermediate |
 | 4 | [ReAct: Reasoning + Acting Agents](notebooks/04_react_agent.ipynb) | ReAct loop, tool registry, agent state | ~90 min | 🔴 Advanced |
