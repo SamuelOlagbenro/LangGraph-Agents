@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 LangGraph Agents: From Stateful Workflows to ReAct
+# 🧠 LangGraph Agents Labs: From Stateful Workflows to ReAct
 
 **A hands-on learning path for building intelligent, stateful AI agents with LangGraph**
 
